@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<row>
+<isbn>9782874450754</isbn>
+<titre>Le rivage des Syrtes</titre>
+<auteurs>Julien Gracq</auteurs>
+<langue>fra</langue>
+<editeur></editeur>
+<note>4</note>
+<prix>37,6</prix>
+</row>
+<row>
+<isbn>9782875151780</isbn>
+<titre>Les Casseurs de codes de la Seconde Guerre mondiale</titre>
+<auteurs>Sinclair McKay</auteurs>
+<langue>fra</langue>
+<editeur>1</editeur>
+<note>4.5</note>
+<prix>4,74</prix>
+</row>
+<row>
+<isbn>9782877061216</isbn>
+<titre>La Volte des vertugadins</titre>
+<auteurs>Merle,Robert</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>41,22</prix>
+</row>
+<row>
+<isbn>9782877061216</isbn>
+<titre>[Fortune de France-07] La Volte des vertugadins</titre>
+<auteurs>Merle,Robert</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>15,81</prix>
+</row>
+<row>
+<isbn>9782877061759</isbn>
+<titre>L&apos;Enfant-Roi</titre>
+<auteurs>Merle,Robert</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>53,78</prix>
+</row>
+<row>
+<isbn>9782877061759</isbn>
+<titre>[Fortune de France-08] L&apos;Enfant-Roi</titre>
+<auteurs>Merle,Robert</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>95,97</prix>
+</row>
+<row>
+<isbn>9782877066808</isbn>
+<titre>L&apos;avers et le revers</titre>
+<auteurs>Merle,Olivier</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>76,51</prix>
+</row>
+<row>
+<isbn>9782877068161</isbn>
+<titre>La vérité sur l&apos;affaire Harry Quebert</titre>
+<auteurs>Joël Dicker</auteurs>
+<langue>fra</langue>
+<editeur>3</editeur>
+<note>5</note>
+<prix>60,4</prix>
+</row>
+<row>
+<isbn>9782878583168</isbn>
+<titre>Refus de témoigner</titre>
+<auteurs>Ruth Klüger</auteurs>
+<langue>fra</langue>
+<editeur></editeur>
+<note>4</note>
+<prix>14,6</prix>
+</row>
+<row>
+<isbn>9782878583762</isbn>
+<titre>L&apos;Armée furieuse</titre>
+<auteurs>Vargas,Fred</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>34,51</prix>
+</row>
+<row>
+<isbn>9782878585377</isbn>
+<titre>Passage du désir</titre>
+<auteurs>Dominique Sylvain</auteurs>
+<langue>fra</langue>
+<editeur>4</editeur>
+<note>4</note>
+<prix>65,8</prix>
+</row>
+<row>
+<isbn>9782878589856</isbn>
+<titre>Niels</titre>
+<auteurs>Ragougneau,Alexis</auteurs>
+<langue>fra</langue>
+<editeur>4</editeur>
+<note></note>
+<prix>19,16</prix>
+</row>
+<row>
+<isbn>9782878960525</isbn>
+<titre>La canne aux rubans</titre>
+<auteurs>Jean Grangeot</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>82,16</prix>
+</row>
+<row>
+<isbn>9782879290324</isbn>
+<titre>Le patient anglais: L&apos;homme flambé</titre>
+<auteurs>Michael Ondaatje</auteurs>
+<langue>fra</langue>
+<editeur>5</editeur>
+<note>3</note>
+<prix>64,32</prix>
+</row>
+<row>
+<isbn>9782879294858</isbn>
+<titre>Cartographie des nuages</titre>
+<auteurs>Mitchell,David</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>28,91</prix>
+</row>
+<row>
+<isbn>9782879296579</isbn>
+<titre>Freedom</titre>
+<auteurs>Franzen,Jonathan</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>23,41</prix>
+</row>
+<row>
+<isbn>9782882504852</isbn>
+<titre>Surface de réparation</titre>
+<auteurs>El Khoury,Olivier</auteurs>
+<langue>fra</langue>
+<editeur>6</editeur>
+<note></note>
+<prix>27,18</prix>
+</row>
+<row>
+<isbn>9782882504876</isbn>
+<titre>L&apos;été infini</titre>
+<auteurs>Madame Nielsen</auteurs>
+<langue>fra</langue>
+<editeur>6</editeur>
+<note></note>
+<prix>55,8</prix>
+</row>
+<row>
+<isbn>9782882504920</isbn>
+<titre>Une longue impatience</titre>
+<auteurs>Josse,Gaëlle</auteurs>
+<langue>fra</langue>
+<editeur>6</editeur>
+<note></note>
+<prix>80,69</prix>
+</row>
+<row>
+<isbn>9782884748544</isbn>
+<titre>Borgia</titre>
+<auteurs>Michel Zévaco</auteurs>
+<langue>fra</langue>
+<editeur>7</editeur>
+<note>3</note>
+<prix>54,36</prix>
+</row>
+<row>
+<isbn>9782890447783</isbn>
+<titre>Le Shack</titre>
+<auteurs>Young,W. Paul</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>11,74</prix>
+</row>
+<row>
+<isbn>9782890747616</isbn>
+<titre>Naïla de Brume</titre>
+<auteurs>Tremblay,Elisabeth</auteurs>
+<langue>fra</langue>
+<editeur>2</editeur>
+<note></note>
+<prix>65,22</prix>
+</row>
+<row>
+<isbn>9782265078512</isbn>
+<titre>Bons baisers où tu sais: chronique des temps merdiques</titre>
+<auteurs>San-Antonio</auteurs>
+<langue>eng</langue>
+<editeur>8</editeur>
+<note>1</note>
+<prix>14,9</prix>
+</row>
+<row>
+<isbn>9782265078666</isbn>
+<titre>Apparition</titre>
+<auteurs>Graham Masterton</auteurs>
+<langue>eng</langue>
+<editeur>8</editeur>
+<note>3</note>
+<prix>30,14</prix>
+</row>
+<row>
+<isbn>9782265080935</isbn>
+<titre>Le trouillomètre à zéro</titre>
+<auteurs>San-Antonio</auteurs>
+<langue>eng</langue>
+<editeur>8</editeur>
+<note></note>
+<prix>58,39</prix>
+</row>
+<row>
+<isbn>9782265089211</isbn>
+<titre>Faites chauffer la colle</titre>
+<auteurs>San-Antonio</auteurs>
+<langue>eng</langue>
+<editeur>8</editeur>
+<note></note>
+<prix>33,58</prix>
+</row>
+<row>
+<isbn>9782266022620</isbn>
+<titre>La Station d&apos;Araminta</titre>
+<auteurs>Jack Vance</auteurs>
+<langue>eng</langue>
+<editeur>9</editeur>
+<note>4</note>
+<prix>56,39</prix>
+</row>
+<row>
+<isbn>9782266025669</isbn>
+<titre>Les Yeux des ténébres</titre>
+<auteurs>Dean-R Koontz</auteurs>
+<langue>eng</langue>
+<editeur>9</editeur>
+<note>3</note>
+<prix>35,74</prix>
+</row>
+<row>
+<isbn>9782266025690</isbn>
+<titre>Araminta</titre>
+<auteurs>Jack Vance</auteurs>
+<langue>eng</langue>
+<editeur>9</editeur>
+<note>4</note>
+<prix>24,82</prix>
+</row>
+</root>
