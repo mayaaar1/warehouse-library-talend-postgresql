@@ -1,0 +1,10 @@
+id	editeur	adresse
+1	Ixelles éditions	 Avenue Molière 263 1050 Bruxelles Belgique
+2	AlexandriZ	
+3	De Fallois	22 RUE LA BOETIE - 75008 PARIS
+4	Viviane Hamy	89, rue du Faubourg-Saint-Antoine 75011 Paris
+5	Éd. de l'Olivier	96 Boulevard du Montparnasse, 75014 Paris, France
+6	Noir sur blanc	7 RUE DES CANETTES 75006 PARIS
+7	Infolio	En Crausaz 10, 1124 Gollion, Suisse
+8	Fleuve Noir	92 avenue de France - 75713 PARIS 
+9	POCKET	92 avenue de France - 75713 PARIS 
